@@ -1,5 +1,5 @@
-## Hi there 👋 This is Dzikry's Github!
-
+## Hello World! I'm M. Dzikry Fikry 👋
+![M.DzikryFikry](/img/github-header-banner.png)
 <!--
 **DzikryFy/DzikryFy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
