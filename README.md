@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 This is Dzikry's Github!
 
 <!--
 **DzikryFy/DzikryFy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently Studying at **SMKN 1 DEPOK**.
+
+- 🌱 I’m currently learning Laravel Framework, Bootstrap, and JavaScript.
+
+![coding image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3M5YmZia3YzbjNuNDFpdzJuY2F4c2dwaWZsbGp3aXpsMmVtYnk5eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif)
