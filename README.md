@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # 💫 About Me:
 🔭 I’m currently Studying at SMKN 1 DEPOK.<br>
-Project perpustakaan SMKN 1 Depok : [https://dzikry-fy.byethost15.com/](#https://dzikry-fy.byethost15.com/)
+Project perpustakaan SMKN 1 Depok : [https://dzikry-fy.byethost15.com/](https://dzikry-fy.byethost15.com/)
 
 
 ## 🌐 Socials:
