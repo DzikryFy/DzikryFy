@@ -1,4 +1,4 @@
-<img width="444" height="111" alt="image" src="https://github.com/user-attachments/assets/2efe9e6c-5dd6-4655-8464-e0536d5e11cb" />## Hello World! I'm M. Dzikry Fikry 👋
+## Hello World! I'm M. Dzikry Fikry 👋
 ![M.DzikryFikry](/img/github-header-banner.png)
 <!--
 **DzikryFy/DzikryFy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
