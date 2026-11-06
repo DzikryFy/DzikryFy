@@ -9,8 +9,6 @@
   </p>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Theme-Orb%3A%20On%20the%20Movements%20of%20the%20Earth-0284c7?style=flat-square" alt="Orb Theme" />
-    <img src="https://img.shields.io/badge/Persona-Rafa%C5%82%20%7C%20%E3%83%A9%E3%83%95%E3%82%A1%E3%82%A6-0f172a?style=flat-square" alt="Rafal" />
     <a href="https://github.com/DzikryFy">
       <img src="https://komarev.com/ghpvc/?username=DzikryFy&style=flat-square&color=0284c7" alt="Profile Views" />
     </a>
