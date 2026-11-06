@@ -3,7 +3,9 @@
   <h1>Hi there, I'm <span style="color: #38bdf8;">Dzikry</span> 👋</h1>
 
   <p align="center">
-    <strong>Software Engineering & Full-Stack Web Developer</strong>
+    <a href="https://github.com/DzikryFy">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-Stack+Web+Developer;Golang+%7C+Laravel+%7C+React+%7C+Next.js;Building+Scalable+%26+Modern+Web+Apps" alt="Typing SVG" />
+    </a>
   </p>
 
   <p align="center">
@@ -14,10 +16,33 @@
 
 </div>
 
+---
+
+### 🧑‍💻 About Me
+
+```yaml
+name: Muhammad Dzikry Fikry
+role: Software Engineering & Full-Stack Web Developer
+focus: Modern Web Architecture & Scalable Systems
+currently_learning: Advanced Microservices & Go Performance Tuning
+passions: Clean Code, Problem Solving, & Building Meaningful Tech
+```
+
+- 🔭 Currently building full-stack web solutions with **Go (Fiber)** and **PHP (Laravel)**.
+- 🎨 Crafting performant, responsive frontends with **Next.js**, **React**, and **Tailwind CSS**.
+- 🗄️ Experienced in relational databases with **PostgreSQL** and **MySQL**.
+- 💬 Ask me about **Web Development**, **RESTful APIs**, or **System Design**.
+
+---
+
 ### 🎮 The Contribution Snake Game
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DzikryFy/DzikryFy/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DzikryFy/DzikryFy/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DzikryFy/DzikryFy/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/DzikryFy/DzikryFy/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
 </div>
 
 ---
@@ -86,15 +111,25 @@
 ### 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/rafael-pandu-sumanti" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/muhammad-dzikry-fikry" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://instagram.com/artificialvels" target="_blank">
+  <a href="https://www.instagram.com/dzik.fy" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   &nbsp;
   <a href="mailto:m.dzikryfikry@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  &nbsp;
+  <a href="https://github.com/DzikryFy" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <sub>Designed with ❤️ by <a href="https://github.com/DzikryFy">DzikryFy</a></sub>
 </div>
