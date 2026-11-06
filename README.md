@@ -28,11 +28,6 @@ currently_learning: Advanced Microservices & Go Performance Tuning
 passions: Clean Code, Problem Solving, & Building Meaningful Tech
 ```
 
-- 🔭 Currently building full-stack web solutions with **Go (Fiber)** and **PHP (Laravel)**.
-- 🎨 Crafting performant, responsive frontends with **Next.js**, **React**, and **Tailwind CSS**.
-- 🗄️ Experienced in relational databases with **PostgreSQL** and **MySQL**.
-- 💬 Ask me about **Web Development**, **RESTful APIs**, or **System Design**.
-
 ---
 
 ### 🎮 The Contribution Snake Game
