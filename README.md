@@ -102,11 +102,9 @@ status: Open to impactful engineering projects
 
 ### Philosophy
 
-> *"My creed has always been to live rationally. And yet, when confronted with the universe, true rationality is not fear or self-preservation—it is the courage to seek the truth."*
->
 > *"Your opponent is formidable. The one you face is not me, nor is it the heretics. It is imagination, curiosity, rational intellect... and ultimately, your opponent is truth itself."*
 >
-> — **Rafał** (ラファウ), *Orb: On the Movements of the Earth* (チ。―地球の運動について―)
+> — **Rafał**, *Orb: On the Movements of the Earth*
 
 ---
 
@@ -122,5 +120,5 @@ status: Open to impactful engineering projects
 <br />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=15&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=%22Your+opponent+is+formidable...+it+is+truth+itself.%22;%22My+creed+is+to+live+rationally%2C+guided+by+curiosity.%22;%22E+pur+si+muove+-+And+yet+it+moves.%22;Inspired+by+Rafa%C5%82+%7C+%E3%83%81%E3%80%82%E2%80%95%E5%9C%B0%E7%90%83%E3%81%AE%E9%81%8B%E5%8B%95%E3%81%AB%E3%81%A4%E3%81%84%E3%81%86%E2%80%95" alt="Orb Theme Typography" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=15&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=%22Your+opponent+is+formidable...+it+is+truth+itself.%22;%22Rational+intellect+and+truth+will+always+illuminate+the+dark.%22;%22E+pur+si+muove+-+And+yet+it+moves.%22;Inspired+by+Rafa%C5%82+-+Orb%3A+On+the+Movements+of+the+Earth" alt="Orb Theme Typography" />
 </div>
