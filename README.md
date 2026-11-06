@@ -4,7 +4,7 @@
 
   <p align="center">
     <a href="https://github.com/DzikryFy">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Software+Engineer;Full-Stack+Web+Developer;Go+%7C+Laravel+%7C+React+%7C+Next.js;Building+Scalable+Web+Applications" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Software+Engineer;Full-Stack+Web+Developer;PHP+%7C+Laravel+%7C+React+%7C+Next.js;Building+Scalable+Web+Applications" alt="Typing SVG" />
     </a>
   </p>
 
@@ -24,7 +24,7 @@
 name: Muhammad Dzikry Fikry
 role: Full-Stack Developer & Software Engineer
 focus: Backend Systems, REST APIs, Modern Web Architecture
-stack: Go (Fiber), PHP (Laravel), TypeScript, Next.js
+stack: PHP (Laravel), TypeScript, Next.js
 ethos: Driven by curiosity, logic, and continuous learning
 status: Open to impactful engineering projects
 ```
@@ -63,8 +63,6 @@ status: Open to impactful engineering projects
   <tr>
     <td width="22%" align="center"><strong>Backend & API</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-      <img src="https://img.shields.io/badge/Fiber-000000?style=for-the-badge&logo=express&logoColor=white" alt="Fiber" />
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
       <img src="https://img.shields.io/badge/REST_API-0284C7?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
