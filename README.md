@@ -3,7 +3,7 @@
   <h1>Hi, I'm <span style="color: #38bdf8;">Dzikry</span></h1>
 
   <p align="center">
-    <a href="https://github.com/DzikryFy"><img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Software+Engineer;Full-Stack+Web+Developer;PHP+%7C+Laravel+%7C+React+%7C+Next.js;Building+Scalable+Web+Applications" alt="Typing SVG" /></a>
+    <a href="https://github.com/DzikryFy"><img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Software+Engineer;Full-Stack+Web+Developer;Building+Scalable+Web+Applications" alt="Typing SVG" /></a>
   </p>
 
   <p align="center">
