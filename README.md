@@ -9,8 +9,10 @@
   </p>
 
   <p align="center">
+    <img src="https://img.shields.io/badge/Theme-Orb%3A%20On%20the%20Movements%20of%20the%20Earth-0284c7?style=flat-square" alt="Orb Theme" />
+    <img src="https://img.shields.io/badge/Persona-Rafa%C5%82%20%7C%20%E3%83%A9%E3%83%95%E3%82%A1%E3%82%A6-0f172a?style=flat-square" alt="Rafal" />
     <a href="https://github.com/DzikryFy">
-      <img src="https://komarev.com/ghpvc/?username=DzikryFy&style=for-the-badge&color=0284c7" alt="Profile Views" />
+      <img src="https://komarev.com/ghpvc/?username=DzikryFy&style=flat-square&color=0284c7" alt="Profile Views" />
     </a>
   </p>
 
@@ -23,20 +25,23 @@
 ```yaml
 name: Muhammad Dzikry Fikry
 role: Full-Stack Developer & Software Engineer
-focus: Backend Systems, REST APIs, Modern Web Apps
+focus: Backend Systems, REST APIs, Modern Web Architecture
 stack: Go (Fiber), PHP (Laravel), TypeScript, Next.js
+ethos: Driven by curiosity, logic, and continuous learning
 status: Open to impactful engineering projects
 ```
 
 ---
 
-### Contribution Graph
+### Movements of the Earth
+
+> *"Even if my life ends, this world continues to move."*
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DzikryFy/DzikryFy/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DzikryFy/DzikryFy/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/DzikryFy/DzikryFy/output/github-contribution-grid-snake.svg" width="100%" />
+    <img alt="Movements of the Earth - Orbital Grid" src="https://raw.githubusercontent.com/DzikryFy/DzikryFy/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
 </div>
 
@@ -103,6 +108,14 @@ status: Open to impactful engineering projects
 
 ---
 
+### Philosophy
+
+> *"What moves people's hearts is something more precious than life itself. The truth of this universe is too rational, too beautiful to remain in the dark."*
+>
+> — **Rafał** (ラファウ), *Orb: On the Movements of the Earth* (チ。―地球の運動について―)
+
+---
+
 ### Connect
 
 <div align="center">
@@ -126,5 +139,5 @@ status: Open to impactful engineering projects
 <br />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=15&duration=4000&pause=1000&color=64748B&center=true&vCenter=true&width=550&lines=%22Simplicity+is+prerequisite+for+reliability.%22;Crafting+scalable+systems+with+clean+architecture." alt="Closing Quote" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=15&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=%22E+pur+si+muove+-+And+yet+it+moves.%22;%22Curiosity+and+reason+will+always+illuminate+the+dark.%22;Inspired+by+Rafa%C5%82+and+the+relentless+pursuit+of+truth." alt="Orb Theme Typography" />
 </div>
