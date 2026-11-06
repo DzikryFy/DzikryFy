@@ -3,15 +3,11 @@
   <h1>Hi, I'm <span style="color: #38bdf8;">Dzikry</span></h1>
 
   <p align="center">
-    <a href="https://github.com/DzikryFy">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Software+Engineer;Full-Stack+Web+Developer;PHP+%7C+Laravel+%7C+React+%7C+Next.js;Building+Scalable+Web+Applications" alt="Typing SVG" />
-    </a>
+    <a href="https://github.com/DzikryFy"><img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Software+Engineer;Full-Stack+Web+Developer;PHP+%7C+Laravel+%7C+React+%7C+Next.js;Building+Scalable+Web+Applications" alt="Typing SVG" /></a>
   </p>
 
   <p align="center">
-    <a href="https://github.com/DzikryFy">
-      <img src="https://komarev.com/ghpvc/?username=DzikryFy&style=flat-square&color=0284c7" alt="Profile Views" />
-    </a>
+    <a href="https://github.com/DzikryFy"><img src="https://komarev.com/ghpvc/?username=DzikryFy&style=flat-square&color=0284c7" alt="Profile Views" /></a>
   </p>
 
 </div>
@@ -117,21 +113,10 @@ status: Open to impactful engineering projects
 ### Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/muhammad-dzikry-fikry" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/dzik.fy" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  &nbsp;
-  <a href="mailto:m.dzikryfikry@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/DzikryFy" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <a href="https://www.linkedin.com/in/muhammad-dzikry-fikry" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/dzik.fy" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:m.dzikryfikry@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/DzikryFy" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 
 <br />
