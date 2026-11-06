@@ -1,10 +1,10 @@
 <div align="center">
 
-  <h1>Hi there, I'm <span style="color: #38bdf8;">Dzikry</span> 👋</h1>
+  <h1>Hi, I'm <span style="color: #38bdf8;">Dzikry</span></h1>
 
   <p align="center">
     <a href="https://github.com/DzikryFy">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-Stack+Web+Developer;Golang+%7C+Laravel+%7C+React+%7C+Next.js;Building+Scalable+%26+Modern+Web+Apps" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-Stack+Web+Developer;Go+%7C+Laravel+%7C+React+%7C+Next.js;Building+Scalable+Web+Applications" alt="Typing SVG" />
     </a>
   </p>
 
@@ -18,19 +18,19 @@
 
 ---
 
-### 🧑‍💻 About Me
+### About
 
 ```yaml
 name: Muhammad Dzikry Fikry
-role: Software Engineering & Full-Stack Web Developer
-focus: Modern Web Architecture & Scalable Systems
-currently_learning: Advanced Microservices & Go Performance Tuning
-passions: Clean Code, Problem Solving, & Building Meaningful Tech
+role: Full-Stack Developer & Software Engineer
+focus: Backend Systems, REST APIs, Modern Web Apps
+stack: Go (Fiber), PHP (Laravel), TypeScript, Next.js
+status: Open to impactful engineering projects
 ```
 
 ---
 
-### 🎮 The Contribution Snake Game
+### Contribution Graph
 
 <div align="center">
   <picture>
@@ -42,7 +42,7 @@ passions: Clean Code, Problem Solving, & Building Meaningful Tech
 
 ---
 
-### 🛠️ Tech Stack & Architecture
+### Tech Stack
 
 <table width="100%">
   <tr>
@@ -89,7 +89,7 @@ passions: Clean Code, Problem Solving, & Building Meaningful Tech
 
 ---
 
-### 📊 Performance & Analytics
+### GitHub Analytics
 
 <div align="center">
   <p align="center">
@@ -103,7 +103,7 @@ passions: Clean Code, Problem Solving, & Building Meaningful Tech
 
 ---
 
-### 🌐 Connect With Me
+### Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/muhammad-dzikry-fikry" target="_blank">
@@ -126,5 +126,5 @@ passions: Clean Code, Problem Solving, & Building Meaningful Tech
 <br />
 
 <div align="center">
-  <sub>Designed with ❤️ by <a href="https://github.com/DzikryFy">DzikryFy</a></sub>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=15&duration=4000&pause=1000&color=64748B&center=true&vCenter=true&width=550&lines=%22Simplicity+is+prerequisite+for+reliability.%22;Crafting+scalable+systems+with+clean+architecture." alt="Closing Quote" />
 </div>
