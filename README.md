@@ -98,11 +98,11 @@ passions: Clean Code, Problem Solving, & Building Meaningful Tech
 
 <div align="center">
   <p align="center">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DzikryFy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" width="48%" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DzikryFy&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" width="48%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DzikryFy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" width="49%" />
+    <img src="https://streak-stats.demolab.com/?user=DzikryFy&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
   </p>
   <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=DzikryFy&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DzikryFy&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" width="55%" />
   </p>
 </div>
 
