@@ -20,8 +20,6 @@
 ```yaml
 name: Muhammad Dzikry Fikry
 role: Full-Stack Developer & Software Engineer
-focus: Backend Systems, REST APIs, Modern Web Architecture
-stack: PHP (Laravel), TypeScript, Next.js
 ethos: Driven by curiosity, logic, and continuous learning
 status: Open to impactful engineering projects
 ```
