@@ -40,21 +40,6 @@ status: Open to impactful engineering projects
 
 ---
 
-### Tech Stack
-
-<div align="center">
-  <p><strong>Frontend</strong></p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css&theme=dark" alt="Frontend Stack" />
-  <br />
-  <p><strong>Backend & Database</strong></p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,postman&theme=dark" alt="Backend Stack" />
-  <br />
-  <p><strong>DevOps & Tools</strong></p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,linux,vscode&theme=dark" alt="DevOps & Tools" />
-</div>
-
----
-
 ### GitHub Analytics
 
 <div align="center">
