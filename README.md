@@ -3,7 +3,7 @@
   <h1>Hi, I'm <span style="color: #38bdf8;">Dzikry</span></h1>
 
   <p align="center">
-    <a href="https://github.com/DzikryFy"><img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Software+Engineer;Full-Stack+Web+Developer;Building+Scalable+Web+Applications" alt="Typing SVG" /></a>
+    <strong>10% dari keuntungan seluruh repo ini diberikan ke Potocki.</strong>
   </p>
 
   <p align="center">
@@ -69,8 +69,4 @@ status: Open to impactful engineering projects
   <a href="https://github.com/DzikryFy" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 
-<br />
 
-<div align="center">
-  <sub>10% dari keuntungan seluruh repo ini diberikan ke Potocki.</sub>
-</div>
