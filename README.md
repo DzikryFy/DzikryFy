@@ -44,11 +44,8 @@ status: Open to impactful engineering projects
 
 <div align="center">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=DzikryFy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
-    <img src="https://streak-stats.demolab.com/?user=DzikryFy&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
-  </p>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DzikryFy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="55%" />
+    <img src="https://streak-stats.demolab.com/?user=DzikryFy&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DzikryFy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
   </p>
 </div>
 
@@ -75,5 +72,5 @@ status: Open to impactful engineering projects
 <br />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=15&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=%22Your+opponent+is+formidable...+it+is+truth+itself.%22;%22Rational+intellect+and+truth+will+always+illuminate+the+dark.%22;%22E+pur+si+muove+-+And+yet+it+moves.%22;Inspired+by+Rafa%C5%82+-+Orb%3A+On+the+Movements+of+the+Earth" alt="Orb Theme Typography" />
+  <sub>10% dari keuntungan seluruh repo ini diberikan ke Potocki.</sub>
 </div>
